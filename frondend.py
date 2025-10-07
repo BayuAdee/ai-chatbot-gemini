@@ -1,7 +1,8 @@
 import streamlit as st
 import requests
 
-FLASK_BACKEND_URL = "https://ai-chatbot-gemini-backend.replit.dev/chat"
+# FLASK_BACKEND_URL = "https://ai-chatbot-gemini-backend.replit.dev/chat"
+FLASK_BACKEND_URL = "https://825bb56e-b384-413f-bf8a-cfbd6b162185-00-2d5paye0cbf5x.sisko.replit.dev/"
 
 st.set_page_config(page_title="Asisten Belajar", layout="wide")
 st.title("🤖 Asisten Belajar AI")
